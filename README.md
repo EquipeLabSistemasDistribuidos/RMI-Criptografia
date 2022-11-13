@@ -38,4 +38,4 @@ Obs.: Porta passado no ClientCripto deve ser a mesma porta passada no rmiregistr
 
 # Observações
 - Comandos utilizados para execução do programa funcionaram na versão 11 do JDK/JRE.
-- Houve problemas para executar os comandos na versão 18 e 19.
+- Houveram problemas para executar os comandos na versão 18 e 19.
