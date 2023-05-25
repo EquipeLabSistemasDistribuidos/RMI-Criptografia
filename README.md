@@ -7,8 +7,8 @@ Jasypt (http://www.jasypt.org/)
 # Execução
 Primeiro de tudo faça a extração do arquivo .jar presente na pasta /lib/ e, em seguida, mova a pasta "org" (dentro da pasta extraída) para dentro da pasta /src/. Após, execute os comandos abaixo no cliente e no servidor.
 
-## SERVIDOR
-## 1º Terminal
+## Servidor
+### 1º Terminal
 ```
 javac *.java
 ```
@@ -22,12 +22,12 @@ rmiregistry 1099
 ```
 Obs.: Porta passada no rmiregistry deve ser diferente da porta do ServerCripto.
 
-## 2º Terminal
+### 2º Terminal
 ```
 java ServerCripto
 ```
 
-## CLIENTE
+## Cliente
 ```
 javac *.java
 ```
